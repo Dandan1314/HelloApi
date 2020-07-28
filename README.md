@@ -25,8 +25,8 @@
 
   - [接口列表](#接口列表)
     - [一、获取IP相关信息](./API/searchIp.md)
-      - [1.获取请求者的IP](./API/searchIp.md#1.获取请求者的IP)
-      - [2.查询IP信息](./API/searchIp.md#2.查询IP信息)
+      - [1.获取请求者的IP](./API/searchIp.md#1获取请求者的IP)
+      - [2.查询IP信息](./API/searchIp.md#2查询IP信息)
 
 -----
 
