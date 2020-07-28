@@ -25,11 +25,6 @@
   - [<img width="220" height="300" src="./img/wxPay.png"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" height="300" src="./img/AliPay.png"/>](#img-width220-height300-srcimgwxpaypngimg-width220-height300-srcimgalipaypng)
   - [版权声明](#版权声明)
 
-  - [接口列表](#接口列表)
-    - [一、获取IP相关信息](./API/searchIp.md)
-      - [1.获取请求者的IP](./API/searchIp.md#1获取请求者的IP)
-      - [2.查询IP信息](./API/searchIp.md#2查询IP信息)
-
 -----
 
 ## **数据返回格式：**
