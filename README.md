@@ -22,7 +22,6 @@
   - [**数据返回格式：**](#数据返回格式)
   - [更新记录](#更新记录)
   - [捐赠](#捐赠)
-  - [<img width="220" height="300" src="./img/wxPay.png"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" height="300" src="./img/AliPay.png"/>](#img-width220-height300-srcimgwxpaypngimg-width220-height300-srcimgalipaypng)
   - [版权声明](#版权声明)
 
 -----
@@ -57,10 +56,10 @@
 - 项目建立，第一个接口为获取IP相关信息
 
 --------
-
 ## 捐赠
 
 如果本项目对您有所帮助，可以适当进行捐赠，捐赠金额不限制，全部金额将用于服务器及部分收费接口的维护，同时，如果您有闲置的服务器资源也可以联系我进行捐赠，用于部署相关服务，您的捐赠也是支持我继续维护下去的动力。[捐赠列表](#)
+
 
 <img width="220" height="300" src="./img/wxPay.png"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" height="300" src="./img/AliPay.png"/>
 ---------
