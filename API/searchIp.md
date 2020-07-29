@@ -1,5 +1,7 @@
 # searchIp IP查询相关API
 
+**API地址 i.needapi.net， 支持HTTP和HTTPS请求**
+
 ## 1.获取请求者的IP
 ### 1.1 功能描述
 获取请求者的IP
